@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="5oC_u--elwQRbg6stWUG">
-    <mxGraphModel dx="1063" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="733" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
           <mxGeometry x="358.87" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oQPVEWLI9KSgpzc_tTf6-37" value="&lt;font face=&quot;Times New Roman&quot;&gt;Update&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320.4799999999999" y="84.25" width="34.11" height="45" as="geometry" />
+          <mxGeometry x="468.8699999999999" y="93.49" width="34.11" height="45" as="geometry" />
         </mxCell>
         <mxCell id="oQPVEWLI9KSgpzc_tTf6-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;strokeColor=#696969;dashPattern=1 2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -166,14 +166,11 @@
             <mxPoint x="260" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oQPVEWLI9KSgpzc_tTf6-39" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;(a)STUM&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="440" width="60" height="30" as="geometry" />
+        <mxCell id="oQPVEWLI9KSgpzc_tTf6-39" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;(a) Spatio-temporal &lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Unitized Model&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54.49999999999999" y="440" width="191.87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oQPVEWLI9KSgpzc_tTf6-40" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;(b)Multi-Layer Residual Fusion&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="440" width="193.97" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oQPVEWLI9KSgpzc_tTf6-41" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Fig3.Framework of STUM and Multi-layer Residual Fusion (MLRF).&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(a) The Spatio-Temporal Unitized Model (STUM) has two components: one responsible for extracting coarse-grained spatiotemporal features, and another module responsible for refining these features using adaptive methods.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(b) The Multi-Layer Residual Fusion (MLRF) module improves the predictive performance by integrating these refined features across multiple layers, ensuring that both spatial and temporal information are effectively combined.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="53.37" y="490" width="746.63" height="30" as="geometry" />
+        <mxCell id="oQPVEWLI9KSgpzc_tTf6-40" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;(b) Multi-Layer Residual Fusion&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431" y="440" width="193.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oQPVEWLI9KSgpzc_tTf6-42" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="607.97" y="38.49" width="152.03" height="370" as="geometry" />
@@ -274,6 +271,9 @@
         </mxCell>
         <mxCell id="oQPVEWLI9KSgpzc_tTf6-57" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i&gt;k&amp;nbsp;&amp;nbsp;&lt;/i&gt;layers&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="208.49" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQPVEWLI9KSgpzc_tTf6-75" value="&lt;font face=&quot;Times New Roman&quot;&gt;Reshape&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559.9999999999999" y="40" width="34.11" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
