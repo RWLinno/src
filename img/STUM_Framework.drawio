@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="第 1 页" id="5oC_u--elwQRbg6stWUG">
-    <mxGraphModel dx="1428" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1355" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,9 +380,9 @@
             <mxPoint x="633" y="338.35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T_FOPEBpzpQEU7bBr1gE-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeWidth=0.5;fillColor=#cce5ff;strokeColor=#66B2FF;shadow=1;" edge="1" parent="1" source="T_FOPEBpzpQEU7bBr1gE-101" target="T_FOPEBpzpQEU7bBr1gE-45">
+        <mxCell id="T_FOPEBpzpQEU7bBr1gE-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeWidth=0.5;fillColor=#cce5ff;strokeColor=#66B2FF;shadow=1;" edge="1" parent="1" source="T_FOPEBpzpQEU7bBr1gE-44" target="T_FOPEBpzpQEU7bBr1gE-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="649" y="332.35" as="sourcePoint" />
+            <mxPoint x="636" y="274.6500000000001" as="sourcePoint" />
             <mxPoint x="620" y="325.35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -532,15 +532,6 @@
             <mxPoint x="672" y="439.99999999999994" as="sourcePoint" />
             <mxPoint x="672" y="312.24999999999994" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="T_FOPEBpzpQEU7bBr1gE-102" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeWidth=0.5;fillColor=#cce5ff;strokeColor=#66B2FF;shadow=1;" edge="1" parent="1" source="T_FOPEBpzpQEU7bBr1gE-44" target="T_FOPEBpzpQEU7bBr1gE-101">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="563" y="324" as="sourcePoint" />
-            <mxPoint x="590" y="315" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T_FOPEBpzpQEU7bBr1gE-101" value="&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 12px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 12px; color: rgb(53, 53, 53); font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; text-align: left; background-color: rgb(149, 236, 105);&quot;&gt;$$\mathcal{G}_s$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="636" y="274.65" width="27" height="19.6" as="geometry" />
         </mxCell>
         <mxCell id="T_FOPEBpzpQEU7bBr1gE-103" value="&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 12px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 12px; color: rgb(53, 53, 53); font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; text-align: left; background-color: rgb(149, 236, 105);&quot;&gt;$$\mathcal{G}_t$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="636" y="327.25" width="27" height="19.6" as="geometry" />
