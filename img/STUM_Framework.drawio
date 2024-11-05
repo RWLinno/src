@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="第 1 页" id="5oC_u--elwQRbg6stWUG">
-    <mxGraphModel dx="1620" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1585" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
         <mxCell id="oQPVEWLI9KSgpzc_tTf6-66" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;x:Time&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Info&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="629" y="87.25" width="100" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="oQPVEWLI9KSgpzc_tTf6-72" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#CDA2BE;strokeWidth=2;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oQPVEWLI9KSgpzc_tTf6-47" target="T_FOPEBpzpQEU7bBr1gE-33" edge="1">
+        <mxCell id="oQPVEWLI9KSgpzc_tTf6-72" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#CDA2BE;strokeWidth=2;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=1;" parent="1" source="oQPVEWLI9KSgpzc_tTf6-47" target="T_FOPEBpzpQEU7bBr1gE-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="625" y="184.2" as="sourcePoint" />
             <mxPoint x="625" y="250.2" as="targetPoint" />
@@ -345,10 +345,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T_FOPEBpzpQEU7bBr1gE-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="585" y="235.82" width="80" height="40" as="geometry" />
+          <mxGeometry x="585" y="232.82" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T_FOPEBpzpQEU7bBr1gE-33" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; color: rgb(53, 53, 53); font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; text-align: left; background-color: rgb(149, 236, 105);&quot;&gt;$$ASTUC \, \mathcal{G}_s^{(k)}$$&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="595" y="235.82" width="60" height="28.49" as="geometry" />
+          <mxGeometry x="600" y="232.22" width="50" height="24.78" as="geometry" />
         </mxCell>
         <mxCell id="T_FOPEBpzpQEU7bBr1gE-37" value="&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="618" y="191.45" width="14" height="24.31" as="geometry" />
