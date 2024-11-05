@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="第 1 页" id="5oC_u--elwQRbg6stWUG">
-    <mxGraphModel dx="1657" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1090" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,9 +323,6 @@
         <mxCell id="T_FOPEBpzpQEU7bBr1gE-14" value="Global&#xa;Trends " style="text;" vertex="1" parent="1">
           <mxGeometry x="80" y="340.25" width="40" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="T_FOPEBpzpQEU7bBr1gE-21" value="Spatio-temporal&#xa;Unitized Parameter" style="text;whiteSpace=wrap;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="-67.58999999999997" y="-73" width="107.59" height="73.25" as="geometry" />
-        </mxCell>
         <mxCell id="T_FOPEBpzpQEU7bBr1gE-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="oQPVEWLI9KSgpzc_tTf6-13" target="oQPVEWLI9KSgpzc_tTf6-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="257" y="184" as="sourcePoint" />
@@ -419,7 +416,7 @@
             <mxPoint x="540" y="312.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T_FOPEBpzpQEU7bBr1gE-64" value="layer" style="text;whiteSpace=wrap;html=1;direction=south;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="T_FOPEBpzpQEU7bBr1gE-64" value="Layer" style="text;whiteSpace=wrap;html=1;direction=south;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="533.0550000000001" y="302.90500000000003" width="22.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T_FOPEBpzpQEU7bBr1gE-67" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
