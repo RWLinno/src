@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="第 1 页" id="kUsO-oT33XwzMq8Ph0ZL">
-    <mxGraphModel dx="1205" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Dzmygc7VFjRqtypRufDo-101" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;strokeWidth=6;shadow=0;dashed=1;dashPattern=1 2;perimeterSpacing=8;" vertex="1" parent="1">
           <mxGeometry x="180" y="66.5" width="448" height="283.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Dzmygc7VFjRqtypRufDo-104" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="60" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dzmygc7VFjRqtypRufDo-2" value="Weilin Ruan" style="shape=ellipse;fillColor=#000000;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="214.46" y="254.5" width="48" height="48" as="geometry" />
@@ -45,6 +48,15 @@
         <mxCell id="Dzmygc7VFjRqtypRufDo-11" value="" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.user" vertex="1" parent="Dzmygc7VFjRqtypRufDo-10">
           <mxGeometry width="24" height="24" relative="1" as="geometry">
             <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dzmygc7VFjRqtypRufDo-106" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Dzmygc7VFjRqtypRufDo-10" target="Dzmygc7VFjRqtypRufDo-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-59.17999999999995" y="42.81999999999999" as="sourcePoint" />
+            <mxPoint x="33.280000000000086" y="43.31999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-6.17999999999995" y="42.5" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Dzmygc7VFjRqtypRufDo-12" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#4D4D4D;shape=mxgraph.mscae.general.graph" vertex="1" parent="1">
@@ -224,11 +236,14 @@
         <mxCell id="Dzmygc7VFjRqtypRufDo-77" value="&lt;div&gt;Multimodal&lt;/div&gt;Large Language Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363.18" y="181" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Dzmygc7VFjRqtypRufDo-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Dzmygc7VFjRqtypRufDo-81" target="Dzmygc7VFjRqtypRufDo-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Dzmygc7VFjRqtypRufDo-81" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Retrieval" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="396.68" y="111" width="53" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Dzmygc7VFjRqtypRufDo-83" value="H&lt;a style=&quot;text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Hiragino Sans GB W3&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;search-js&quot; href=&quot;http://www.youdao.com/w/hallucination/#keyfrom=E2Ctranslation&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;allucination&lt;/font&gt;&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="52.82" height="29" as="geometry" />
+        <mxCell id="Dzmygc7VFjRqtypRufDo-83" value="H&lt;a style=&quot;text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Hiragino Sans GB W3&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;search-js&quot; href=&quot;http://www.youdao.com/w/hallucination/#keyfrom=E2Ctranslation&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;allucination&lt;/font&gt;&lt;/a&gt;&amp;nbsp;放哪？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363.18" y="380" width="146.82" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Dzmygc7VFjRqtypRufDo-87" value="" style="group;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="652" y="120" width="152.5" height="162" as="geometry" />
@@ -261,13 +276,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dzmygc7VFjRqtypRufDo-90" value="" style="group;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="22" y="120" width="152.5" height="162" as="geometry" />
+          <mxGeometry x="10" y="120" width="152.5" height="162" as="geometry" />
         </mxCell>
         <mxCell id="Dzmygc7VFjRqtypRufDo-91" value="Raw Data" style="shape=mxgraph.bpmn.swimlane;html=1;startSize=20;horizontal=1;swimlaneLine=1;collapsible=0;fontStyle=0;strokeWidth=2;swimlaneFillColor=#ffffff;isCollection=1;whiteSpace=wrap;" vertex="1" parent="Dzmygc7VFjRqtypRufDo-90">
           <mxGeometry width="152.5" height="162" as="geometry" />
         </mxCell>
         <mxCell id="Dzmygc7VFjRqtypRufDo-96" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Safety.svg;imageBackground=default;" vertex="1" parent="1">
-          <mxGeometry x="460" y="162" width="38.17" height="38.17" as="geometry" />
+          <mxGeometry x="351.83" y="254.5" width="38.17" height="38.17" as="geometry" />
         </mxCell>
         <mxCell id="Dzmygc7VFjRqtypRufDo-102" value="Connected Transportation Information System (CTIS)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="248.28" y="66.5" width="311.44" height="29" as="geometry" />
