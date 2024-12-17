@@ -80,8 +80,8 @@
         <mxCell id="Dzmygc7VFjRqtypRufDo-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.track_changes" vertex="1" parent="Dzmygc7VFjRqtypRufDo-22">
           <mxGeometry width="42" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Dzmygc7VFjRqtypRufDo-21" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Text&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Dzmygc7VFjRqtypRufDo-22">
-          <mxGeometry x="1" y="44" width="60" height="40" as="geometry" />
+        <mxCell id="Dzmygc7VFjRqtypRufDo-21" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;TE&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;XT&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Dzmygc7VFjRqtypRufDo-22">
+          <mxGeometry x="-1" y="44" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dzmygc7VFjRqtypRufDo-25" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;MTS&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="291.46000000000004" y="150" width="80" height="40" as="geometry" />
